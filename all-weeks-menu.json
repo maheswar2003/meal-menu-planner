@@ -1,0 +1,33 @@
+[
+  {"week":1,"day":"Monday","meals":{"breakfast":"IDLI & CHUTNEY, SAMBAR, COFFEE, TEA","lunch":"RICE, ROTI, KADDU/LAUKI, DAL, ALOO GOBHI, SALAD, PAPAD","snacks":"ALOO POHA, COFFEE","dinner":"RICE, ROTI, BHINDI MASALA, CHANA DAL, KHEER"}},
+  {"week":1,"day":"Tuesday","meals":{"breakfast":"BREAD, JAM, BUTTER, GHUGHNI, TEA","lunch":"RICE, ROTI, ALOO BAIGAN, DAL, CURD, PAPAD, SALAD","snacks":"BHEL PURI, COFFEE","dinner":"RICE, ROTI, DUM ALOO, DAL, GULAB JAMUN"}},
+  {"week":1,"day":"Wednesday","meals":{"breakfast":"FRUIT BREAD, JAM, BUTTER, EGG, TEA","lunch":"RICE, ROTI, BHINDI MASALA, DAL, CURD, PAPAD, SALAD","snacks":"VEG PAKODA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":1,"day":"Thursday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, ALOO GOBHI, DAL, CURD, PAPAD, SALAD","snacks":"MAGGI, COFFEE","dinner":"RICE, ROTI, CHANA MASALA, DAL, HALWA"}},
+  {"week":1,"day":"Friday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, DAL, BHINDI MASALA, CURD, PAPAD, SALAD","snacks":"SAMOSA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":1,"day":"Saturday","meals":{"breakfast":"ALOO PARATHA, CURD, PICKLE, COFFEE","lunch":"RICE, ROTI, CHANA MASALA, DAL, CURD, PAPAD, SALAD","snacks":"MATHRI, TEA","dinner":"RICE, ROTI, MIX VEG, DAL, GULAB JAMUN"}},
+  {"week":1,"day":"Sunday","meals":{"breakfast":"MASALA DOSA, CHUTNEY, SAMBAR, COFFEE","lunch":"RICE, ROTI, DAL, ALOO GOBHI, CURD, PAPAD, SALAD","snacks":"PAKORI CHAT, COFFEE","dinner":"RICE, ROTI, DAL, MIX VEG, ICE CREAM"}},
+
+  {"week":2,"day":"Monday","meals":{"breakfast":"FRUITS PLATE, BREAD, JAM, BUTTER, COFFEE, TEA","lunch":"RICE, ROTI, DAL, ALOO GOBHI, CURD, PAPAD, SALAD","snacks":"ALOO POHA, COFFEE","dinner":"RICE, ROTI, BHINDI MASALA, CHANA DAL, KHEER"}},
+  {"week":2,"day":"Tuesday","meals":{"breakfast":"ALOO PARATHA, CURD, PICKLE, TEA","lunch":"RICE, ROTI, BAIGAN BHARTA, DAL, CURD, PAPAD, SALAD","snacks":"BHEL PURI, COFFEE","dinner":"RICE, ROTI, DUM ALOO, DAL, GULAB JAMUN"}},
+  {"week":2,"day":"Wednesday","meals":{"breakfast":"FRUIT BREAD, JAM, BUTTER, EGG, TEA","lunch":"RICE, ROTI, BHINDI MASALA, DAL, CURD, PAPAD, SALAD","snacks":"VEG PAKODA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":2,"day":"Thursday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, ALOO GOBHI, DAL, CURD, PAPAD, SALAD","snacks":"MAGGI, COFFEE","dinner":"RICE, ROTI, CHANA MASALA, DAL, HALWA"}},
+  {"week":2,"day":"Friday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, DAL, BHINDI MASALA, CURD, PAPAD, SALAD","snacks":"SAMOSA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":2,"day":"Saturday","meals":{"breakfast":"ALOO PARATHA, CURD, PICKLE, COFFEE","lunch":"RICE, ROTI, CHANA MASALA, DAL, CURD, PAPAD, SALAD","snacks":"MATHRI, TEA","dinner":"RICE, ROTI, MIX VEG, DAL, GULAB JAMUN"}},
+  {"week":2,"day":"Sunday","meals":{"breakfast":"MASALA DOSA, CHUTNEY, SAMBAR, COFFEE","lunch":"RICE, ROTI, DAL, ALOO GOBHI, CURD, PAPAD, SALAD","snacks":"PAKORI CHAT, COFFEE","dinner":"RICE, ROTI, DAL, MIX VEG, ICE CREAM"}},
+
+  {"week":3,"day":"Monday","meals":{"breakfast":"IDLI & CHUTNEY, SAMBAR, COFFEE, TEA","lunch":"RICE, ROTI, KADDU/LAUKI, DAL, ALOO GOBHI, SALAD, PAPAD","snacks":"ALOO POHA, COFFEE","dinner":"RICE, ROTI, BHINDI MASALA, CHANA DAL, KHEER"}},
+  {"week":3,"day":"Tuesday","meals":{"breakfast":"BREAD, JAM, BUTTER, GHUGHNI, TEA","lunch":"RICE, ROTI, ALOO BAIGAN, DAL, CURD, PAPAD, SALAD","snacks":"BHEL PURI, COFFEE","dinner":"RICE, ROTI, DUM ALOO, DAL, GULAB JAMUN"}},
+  {"week":3,"day":"Wednesday","meals":{"breakfast":"FRUIT BREAD, JAM, BUTTER, EGG, TEA","lunch":"RICE, ROTI, BHINDI MASALA, DAL, CURD, PAPAD, SALAD","snacks":"VEG PAKODA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":3,"day":"Thursday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, ALOO GOBHI, DAL, CURD, PAPAD, SALAD","snacks":"MAGGI, COFFEE","dinner":"RICE, ROTI, CHANA MASALA, DAL, HALWA"}},
+  {"week":3,"day":"Friday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, DAL, BHINDI MASALA, CURD, PAPAD, SALAD","snacks":"SAMOSA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":3,"day":"Saturday","meals":{"breakfast":"ALOO PARATHA, CURD, PICKLE, COFFEE","lunch":"RICE, ROTI, CHANA MASALA, DAL, CURD, PAPAD, SALAD","snacks":"MATHRI, TEA","dinner":"RICE, ROTI, MIX VEG, DAL, GULAB JAMUN"}},
+  {"week":3,"day":"Sunday","meals":{"breakfast":"MASALA DOSA, CHUTNEY, SAMBAR, COFFEE","lunch":"RICE, ROTI, DAL, ALOO GOBHI, CURD, PAPAD, SALAD","snacks":"PAKORI CHAT, COFFEE","dinner":"RICE, ROTI, DAL, MIX VEG, ICE CREAM"}},
+
+  {"week":4,"day":"Monday","meals":{"breakfast":"BREAD, JAM, BUTTER, GHUGHNI, TEA","lunch":"RICE, ROTI, KADDU/LAUKI, DAL, ALOO GOBHI, SALAD, PAPAD","snacks":"ALOO POHA, COFFEE","dinner":"RICE, ROTI, BHINDI MASALA, CHANA DAL, KHEER"}},
+  {"week":4,"day":"Tuesday","meals":{"breakfast":"ALOO PARATHA, CURD, PICKLE, TEA","lunch":"RICE, ROTI, BAIGAN BHARTA, DAL, CURD, PAPAD, SALAD","snacks":"BHEL PURI, COFFEE","dinner":"RICE, ROTI, DUM ALOO, DAL, GULAB JAMUN"}},
+  {"week":4,"day":"Wednesday","meals":{"breakfast":"FRUIT BREAD, JAM, BUTTER, EGG, TEA","lunch":"RICE, ROTI, BHINDI MASALA, DAL, CURD, PAPAD, SALAD","snacks":"VEG PAKODA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":4,"day":"Thursday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, ALOO GOBHI, DAL, CURD, PAPAD, SALAD","snacks":"MAGGI, COFFEE","dinner":"RICE, ROTI, CHANA MASALA, DAL, HALWA"}},
+  {"week":4,"day":"Friday","meals":{"breakfast":"SAMTOAST, EGG, TEA","lunch":"RICE, ROTI, DAL, BHINDI MASALA, CURD, PAPAD, SALAD","snacks":"SAMOSA, COFFEE","dinner":"RICE, ROTI, PANEER BUTTER MASALA, DAL, KHEER"}},
+  {"week":4,"day":"Saturday","meals":{"breakfast":"ALOO PARATHA, CURD, PICKLE, COFFEE","lunch":"RICE, ROTI, CHANA MASALA, DAL, CURD, PAPAD, SALAD","snacks":"MATHRI, TEA","dinner":"RICE, ROTI, MIX VEG, DAL, GULAB JAMUN"}},
+  {"week":4,"day":"Sunday","meals":{"breakfast":"MASALA DOSA, CHUTNEY, SAMBAR, COFFEE","lunch":"RICE, ROTI, DAL, ALOO GOBHI, CURD, PAPAD, SALAD","snacks":"PAKORI CHAT, COFFEE","dinner":"RICE, ROTI, DAL, MIX VEG, ICE CREAM"}}
+] 
