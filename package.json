@@ -1,7 +1,9 @@
 {
   "name": "meal-menu-planner",
   "version": "1.0.0",
-  "description": "Weekly meal menu planner application",
+  "description": "A full-stack web application for managing and displaying weekly meal menus.",
+  "author": "maheswar2003 <your-email@example.com>",
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

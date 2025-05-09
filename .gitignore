@@ -1,0 +1,5 @@
+# Ignore root environment files
+.env
+
+# Ignore client environment files
+client/.env
