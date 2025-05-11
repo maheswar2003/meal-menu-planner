@@ -1,4 +1,4 @@
-# Weekly Meal Menu Planner
+# Meal Menu Planner
 
 **Live Website:** (https://your-app-url.com) *(dummy link)*
 

@@ -3,3 +3,7 @@
 
 # Ignore client environment files
 client/.env
+
+# Backend and Managing websites
+mainWebsites.txt
+mainwebsite.txt
