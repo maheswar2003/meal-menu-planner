@@ -1,5 +1,5 @@
 Your website will be live at:
 
-https://your-app-url.com
+https://your-app-url.com (dummy)
 
 (Replace this with your actual deployed URL after hosting!) 
