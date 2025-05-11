@@ -1,6 +1,6 @@
 # Meal Menu Planner
 
-**Live Website:** (https://your-app-url.com) *(dummy link)*
+**Live Website:** - https://meal-menu-planner.onrender.com
 
 A full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) to manage and display weekly meal menus. Features dynamic menu selection, comprehensive meal coverage (Breakfast, Lunch, Snacks, Dinner), a user-friendly Material-UI interface, and a RESTful API.
 
