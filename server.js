@@ -56,7 +56,7 @@ app.get('/api/menu/:week', async (req, res) => {
     if (isNaN(weekNumber) || weekNumber < 1 || weekNumber > 4) {
       return res.status(400).json({ message: 'Invalid week number. Must be between 1 and 4.' });
     }
-    const menus = await Menu.find({ week: weekNumber }).sort({ field: 'asc' }); // Basic sort by day can be added if day has an order field
+    const menus = await Menu.find({ week: weekNumber });
     if (!menus || menus.length === 0) {
       return res.status(404).json({ message: `No menu found for week ${weekNumber}.` });
     }
