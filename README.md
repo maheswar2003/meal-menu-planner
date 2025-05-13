@@ -60,7 +60,3 @@ Configured for Render. Set the following environment variables:
 ## Contributing
 
 Pull requests are welcome.
-
-## License
-
-MIT License (see `LICENSE` file).
